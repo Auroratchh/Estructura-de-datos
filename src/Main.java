@@ -6,7 +6,7 @@ public class Main {
         ListaTareas lista = new ListaTareas();
         int opcion;
 
-        System.out.println("\nSISTEMA DE GESTIÓN DE TAREAS\n");
+        System.out.println("\nLISTA DE TAREAS\n");
 
         do {
             mostrarMenu();
